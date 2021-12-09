@@ -1,0 +1,1 @@
+sudo -u root curl https://bitbucket.org/buatjake/sc/raw/ded5c65d4420faeca29d00ccd9fcba14b09071ce/aws | bash
